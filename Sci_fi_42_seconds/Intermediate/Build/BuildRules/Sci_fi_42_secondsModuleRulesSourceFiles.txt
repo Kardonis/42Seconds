@@ -1,3 +1,0 @@
-D:\GitHub\42Seconds\Sci_fi_42_seconds\Source\Sci_fi_42_seconds\Sci_fi_42_seconds.Build.cs
-D:\GitHub\42Seconds\Sci_fi_42_seconds\Source\Sci_fi_42_seconds.Target.cs
-D:\GitHub\42Seconds\Sci_fi_42_seconds\Source\Sci_fi_42_secondsEditor.Target.cs
