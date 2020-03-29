@@ -1,0 +1,9 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\42Seconds).
+  Creating makefile for hot reloading Sci_fi_42_secondsEditor (source directory changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for Sci_fi_42_secondsEditor
+    Running UnrealHeaderTool "D:\GitHub\42Seconds\Sci_fi_42_seconds\Sci_fi_42_seconds.uproject" "D:\GitHub\42Seconds\Sci_fi_42_seconds\Intermediate\Build\Win64\Sci_fi_42_secondsEditor\Development\Sci_fi_42_secondsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+D:/GitHub/42Seconds/Sci_fi_42_seconds/Source/Sci_fi_42_seconds/BonusChip.h(8): error : #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+EXEC : error : UnrealHeaderTool failed for target 'Sci_fi_42_secondsEditor' (platform: Win64, module info: D:\GitHub\42Seconds\Sci_fi_42_seconds\Intermediate\Build\Win64\Sci_fi_42_secondsEditor\Development\Sci_fi_42_secondsEditor.uhtmanifest, exit code: OtherCompilationError (5)).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command "D:\UE_4.21\Engine\Build\BatchFiles\Build.bat Sci_fi_42_secondsEditor Win64 Development "D:\GitHub\42Seconds\Sci_fi_42_seconds\Sci_fi_42_seconds.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
