@@ -16,6 +16,14 @@ struct FVector;
 
 #define Sci_fi_42_seconds_Source_Sci_fi_42_seconds_MovingPlatform_h_13_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execGetMovingForwards) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(bool*)Z_Param__Result=P_THIS->GetMovingForwards(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execUpdatePosition) \
 	{ \
 		P_GET_STRUCT(FVector,Z_Param_Start); \
@@ -30,6 +38,14 @@ struct FVector;
 
 
 #define Sci_fi_42_seconds_Source_Sci_fi_42_seconds_MovingPlatform_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetMovingForwards) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(bool*)Z_Param__Result=P_THIS->GetMovingForwards(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execUpdatePosition) \
 	{ \

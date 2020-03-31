@@ -82,3 +82,8 @@ FVector AMovingPlatform::UpdatePosition(FVector Start, FVector End, FVector Curr
 
 	return NewPosition;
 }
+
+bool AMovingPlatform::GetMovingForwards()
+{
+	return IsMovingForwards;
+}

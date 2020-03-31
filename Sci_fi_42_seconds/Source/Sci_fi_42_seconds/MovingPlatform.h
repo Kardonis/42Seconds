@@ -27,6 +27,9 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Movement")
 		FVector UpdatePosition(FVector Start, FVector End, FVector Current, float speed);
 
+	UFUNCTION(BlueprintCallable, Category = "Movement")
+		bool GetMovingForwards();
+
 	bool IsMovingForwards = true;
 	float delay = 0.5f; 
 	FVector NewPosition;

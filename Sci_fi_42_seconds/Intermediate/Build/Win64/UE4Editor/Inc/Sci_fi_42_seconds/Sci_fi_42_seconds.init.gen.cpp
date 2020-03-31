@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeSci_fi_42_seconds_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/Sci_fi_42_seconds",
 				PKG_CompiledIn | 0x00000000,
-				0x6C37C929,
-				0xDC2FC0EB,
+				0x8C04F7AB,
+				0x57477B6E,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
