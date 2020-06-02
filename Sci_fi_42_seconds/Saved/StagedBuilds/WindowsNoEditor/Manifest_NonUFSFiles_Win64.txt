@@ -1,4 +1,4 @@
-Sci_fi_42_seconds/Binaries/Win64/Sci_fi_42_seconds-Win64-Shipping.exe	2020-04-01T19:24:06.433Z
+Sci_fi_42_seconds/Binaries/Win64/Sci_fi_42_seconds-Win64-Shipping.exe	2020-04-08T05:44:06.767Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2019-01-07T19:42:10.654Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2019-01-07T19:28:04.265Z
 Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll	2019-01-07T19:29:12.836Z
@@ -16,4 +16,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll	2019-01-07T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2019-01-07T19:28:04.270Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2019-01-07T19:29:12.816Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2019-01-07T19:29:12.818Z
-Sci_fi_42_seconds.exe	2020-04-01T22:00:29.737Z
+Sci_fi_42_seconds.exe	2020-04-08T05:45:40.641Z

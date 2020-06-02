@@ -35,6 +35,7 @@
 #define WINVER 0x0601
 #define PLATFORM_WINDOWS 1
 #define DEPTH_32_BIT_CONVERSION 0
+#define PROJECT_COMPANY_NAME NecroSiren Games
 #define PROJECT_COPYRIGHT_STRING Fill out your copyright notice in the Description page of Project Settings.
 #define PROJECT_PRODUCT_NAME 42 Seconds
 #define PROJECT_PRODUCT_IDENTIFIER Sci_fi_42_seconds
